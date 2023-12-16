@@ -1,0 +1,6 @@
+
+command shift P - configure recommended extentions - use esbenp.prettier-vscode - "extention id" and paste in JSON recommendations file array
+
+can also disable per workspace.
+
+use code Emmet for better HTML and CSS - can use emmet cheatsheet - faster with emmet free course - just 20 and 21 in the video... command line tools goes crazy
