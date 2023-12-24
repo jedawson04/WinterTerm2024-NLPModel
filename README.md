@@ -3,3 +3,7 @@ This repo is for the implementation of an already built NLP Model. We want to im
 
 Contributors: Josh Dawson, Ezra Crowe, Ben Toker
 
+## Set Up
+install python
+
+navigate to the directory that contains requirements.txt then run the command pip install -r requirements.txt. 
