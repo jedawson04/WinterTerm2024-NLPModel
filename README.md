@@ -1,16 +1,15 @@
 # WinterTerm2024-NLPModel
 ***
-This repo is for the implementation of an already built NLP Model. We want to implement an algorithm that will be able to take as an input any coherent passage and return the subject of the passage and its average connotation (a number bounded between -1 and 1).  This collaborative project will serve as an intro to ML and NLP Models.
-
-*if time allows, we may attempt to create our own basic NLP model as well.*
+This repo is for the implementation of an already built NLP Model. We want to train a model that will take in a coherent passage and return the subject of the passage and its average connotation (a number bounded between -1 and 1).  We plan to achieve this through topic identification and sentiment classification. This collaborative project will also serve as an introduction to a wide variety of ML and NLP topics.
 
 Contributors: Josh Dawson, Ezra Crowe, Ben Toker
 
 ## Installation and Set Up
 ***
-Python is the main language used in this project. As long as python is installed in your IDE and you have cloned the repository, to run this project and install all required dependencies follow the steps below: 
+Python is the main language used in this project. To install the required dependencies use pip as shown below.
 ```
 $ cd WinterTerm2024-NLPModel
 $ pip install -r requirements.txt
 ```
+
 

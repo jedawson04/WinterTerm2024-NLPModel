@@ -8,4 +8,4 @@ learn.fit_one_cycle(1, 2e-2)
 
 learn.save('sentiment_model')
 
-learn.predict("I really loved that movie, it was awesome!")
+learn.predict("I really loved that movie, it was awesome!") 
