@@ -1,4 +1,4 @@
-# NOTE: This Repository is depracted due to storage constraints. See Ben Toker's 'nlpmodel' repo for the current changes
+# NOTE: This Repository is deprecated due to storage constraints. See Ben Toker's 'nlpmodel' repo for the current changes
 
 # WinterTerm2024-NLPModel
 ***
